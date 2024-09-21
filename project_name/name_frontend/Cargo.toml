@@ -1,0 +1,11 @@
+[package]
+name = "name_frontend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-client = "1.10.32"
+solana-sdk = "1.10.32"
+solana-program = "1.10.32"
+borsh = "0.9.3"
+borsh-derive = "0.9.3"
