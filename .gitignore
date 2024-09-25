@@ -1,0 +1,14 @@
+/project_name/ts-frontend
+
+/target/
+
+
+# .cargo/config
+
+
+
+/coverage/
+
+
+.vscode/
+.idea/
